@@ -24,4 +24,5 @@ Repository Structure:
 Each SOLID principle is implemented in its respective directory, containing:
 
 ==>Bad Example: Demonstrates a violation of the principle.
+
 ==>Good Example: Shows the correct way to follow the principle.
