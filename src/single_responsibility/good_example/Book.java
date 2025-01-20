@@ -1,0 +1,14 @@
+package single_responsibility.good_example;
+
+public class Book {
+	String bookName;
+	String author;
+	
+	public Book(String bookName,String author){
+		this.bookName=bookName;
+		this.author=author;
+	}
+	public void getDetails(){
+		System.out.println("Book Name: "+bookName+" author: "+author);
+	}
+}
